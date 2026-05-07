@@ -25,3 +25,7 @@ print(resumen_producto)
 
 print("\nResumen por región:")
 print(resumen_region)
+
+print("Resumen por bebidas:")
+print("nueva rama")
+
