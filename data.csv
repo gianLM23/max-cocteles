@@ -1,0 +1,13 @@
+fecha,producto,categoria,region,cantidad,precio
+2024-01-01,vino,bebidas,Sur,10,50
+2024-01-02,cerveza,bebidas,Norte,20,10
+2024-01-03,licor,bebidas,Centro,5,100
+2024-01-04,vino,bebidas,Sur,8,50
+2024-01-05,cerveza,bebidas,Norte,15,10
+2024-01-06,licor,bebidas,Centro,7,100
+2024-01-07,vino,bebidas,Sur,12,50
+2024-01-08,cerveza,bebidas,Norte,18,10
+2024-01-09,licor,bebidas,Centro,6,100
+2024-01-10,vino,bebidas,Sur,9,50
+2024-01-11,cerveza,bebidas,Norte,22,10
+2024-01-12,licor,bebidas,Centro,4,100
